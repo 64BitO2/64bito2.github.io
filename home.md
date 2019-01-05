@@ -1,6 +1,6 @@
 ---
 title: Home
-permalink: /home/
+permalink: /Home/
 ---
 
 Hi. 64BitO2's Blog
