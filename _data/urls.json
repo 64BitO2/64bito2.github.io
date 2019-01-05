@@ -1,7 +1,7 @@
 [
   {
     "text": "Home",
-    "url": "/",
+    "url": "/Home",
     "icon": "fa-home",
     "layout": "post"
   },
