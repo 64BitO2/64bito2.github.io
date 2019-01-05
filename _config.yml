@@ -7,7 +7,7 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/64BitO2
 about: Reversing, Information Security and etc.
 
-baseurl: "https://64bito2.github.io/Home"
+baseurl: "https://64bito2.github.io"
 url: "/Home"
 
 allowsearch: true
