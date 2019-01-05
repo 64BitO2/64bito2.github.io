@@ -1,3 +1,5 @@
+remote_theme : codeasashu/hcz-jekyll-blog
+
 title: John Smith
 description: My Personal Blog
 author: John Smith
@@ -5,7 +7,7 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
 about: Freelance developer
 
-baseurl: ""
+baseurl: "https://64bito2.github.io"
 url: ""
 
 allowsearch: true
