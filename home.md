@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Home
 permalink: /home/
 ---
 
