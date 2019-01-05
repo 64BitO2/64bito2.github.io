@@ -8,7 +8,7 @@ github: https://github.com/64BitO2
 about: Reversing, Information Security and etc.
 
 baseurl: "https://64bito2.github.io"
-url: ""
+url: "home"
 
 allowsearch: true
 
