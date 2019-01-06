@@ -3,7 +3,7 @@ remote_theme : codeasashu/hcz-jekyll-blog
 title: 64BitO2
 description: My Personal Blog And Portfolio
 author: 64BitO2
-logo: /hcz-jekyll-blog/static/img/avatar.png
+logo: /static/img/avatar.png
 github: https://github.com/64BitO2
 about: Reversing, Information Security and etc.
 
