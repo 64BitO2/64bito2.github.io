@@ -1,8 +1,8 @@
 [
 	{
 		"name": "Reversing.kr",
-		"image": "/projects/Reversing.kr",
-		"url": "../assets/Reversing.kr/Cover.JPG",
+		"image": "/Reversing.kr/Cover.JPG",
+		"url": "../projects/Reversing.kr",
 		"date": "Jan 2018",
 		"tags": ["Reversing"]
 	}	
