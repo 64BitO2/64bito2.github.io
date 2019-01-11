@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: Reversingkr
-title: Reversingkr
+title: Reversing.kr
 permalink: /category/Reversingkr
 ---
