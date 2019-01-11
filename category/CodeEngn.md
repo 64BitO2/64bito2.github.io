@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: CodeEngn.com
-title: CodeEngn.com
+categories: CodeEngn
+title: CodeEngn
 permalink: /category/CodeEngncom
 ---
