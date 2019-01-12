@@ -1,14 +1,14 @@
 ---
 layout: post
-title: CodeEngn - Basic RCE - Level1
+title: CodeEngn - Basic RCE - Level2
 date: 2019-01-12 05:25
 categories: CodeEngn
 ---
-문제는 [**Basic RCE - Level1**](https://codeengn.com/challenges/basic/01)에서 
+문제는 [**Basic RCE - Level2**](https://codeengn.com/challenges/basic/02)에서 
 다운받으실 수 있습니다.
 * * *
 코드엔진 기초 첫번째 문제
-**Basic RCE - Level1**
+**Basic RCE - Level2**
 문제입니다.
 
 시작합니다!
