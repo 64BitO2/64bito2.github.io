@@ -13,5 +13,13 @@
 		"url": "/codeengn/2019/01/11/Main.html",
 		"date": "Jan 2018",
 		"tags": ["Reversing"]
+	},
+
+	{
+		"name": "Assembly Language",
+		"image": "/Assembly/Cover.JPG",
+		"url": "/assembly/2019/01/14/Main.html",
+		"date": "Jan 2018",
+		"tags": ["Assembly", "Programming"]
 	}
 ]
