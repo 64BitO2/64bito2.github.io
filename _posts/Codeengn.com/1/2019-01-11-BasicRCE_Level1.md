@@ -172,6 +172,7 @@ C언어로 간단히 나타내자면
 
 ```C
 EAX = GetDriveTypeA("c:\\");
+ESI = -1
 
 EAX -= 2;
 ESI += 3;
