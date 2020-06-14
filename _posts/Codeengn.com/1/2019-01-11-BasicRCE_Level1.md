@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CodeEngn - Basic RCE - Level1
-date: 2019-01-11 20:21
+date: 2020-04-13 19:41
 categories: CodeEngn
 ---
 문제는 [**Basic RCE - Level1**](https://codeengn.com/challenges/basic/01)에서 
